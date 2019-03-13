@@ -1,6 +1,7 @@
 h1{
 color: blue;
 text-align: center;
+text-decoration: underline;
 }
 body{
   background-color: #339AFF;
@@ -8,4 +9,10 @@ body{
 p{
   font-size: 25px;
   font-style: cambria;
+}
+
+h2{
+  text-align: left;
+  color: maroon;
+  text-decoration: underline;
 }
