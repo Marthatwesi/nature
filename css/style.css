@@ -17,8 +17,12 @@ h2{
   text-decoration: underline;
 }
 h3{
-  text-align:
+  font-size: 25px;
+  color: maroon;
 }
 .container{
   width: 900px
+}
+ol{
+  font-size: 22px;
 }
